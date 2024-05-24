@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "784459281188",
+    "project_id": "axxend-video",
+    "storage_bucket": "axxend-video.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784459281188:android:702188e97f03a2e8b0b9b1",
+        "android_client_info": {
+          "package_name": "com.example.axxend_video"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3yqt5UfFalXwc0bg6dyijhCePKwjUCQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
