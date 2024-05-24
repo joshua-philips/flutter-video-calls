@@ -2,7 +2,7 @@
 
 Flutter app that allows two people to join a video call.
 Call Notification hit receiver phone both when it is in foreground, background and terminated.
-Zego Cloud Librabry Used (Calls & UI Kit) used.
+Zego Cloud Librabry (Calls & UI Kit) used.
 
 ## Screenshots
 
